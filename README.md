@@ -1,4 +1,4 @@
-# definitive-ml-guide
+# (Repository Name)
 - 2021.06.31 ~ ing 초중급스터디 자료
 
 ## PART 1. 파이썬 머신러닝 완벽가이드
