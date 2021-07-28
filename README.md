@@ -12,7 +12,7 @@
 
 
 
-## PART 2. 캐글 노트북 분석 발표 순서 및 주제
+## PART 2. 캐글 노트북 분석 발표 자료
 ### 목차
 1. Simple Matplotlib & Visualization Tips 💡
   - 일자 : 2021.07.07(수) / 발표자 : 이예준 [github](https://github.com/yejun-lee)
