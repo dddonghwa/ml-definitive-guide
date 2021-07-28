@@ -4,10 +4,10 @@
 ## PART 1. 파이썬 머신러닝 완벽가이드
 - Wikibooks 오픈소스 github [link](https://github.com/wikibook/ml-definitive-guide)
 ### 목차
-- 1장. 파이썬 기반의 머신러닝이 생태계의 이해 [ipynb](https://github.com/dddonghwa/definitive-ml-guide/blob/main/ch01-02_sklearn.ipynb)
-- 2장. 사이킷런으로 시작하는 머신러닝 [ipynb](https://github.com/dddonghwa/definitive-ml-guide/blob/main/ch01-02_sklearn.ipynb)
-- 3장. 평가 [ipynb](https://github.com/dddonghwa/definitive-ml-guide/blob/main/ch03_evaluation.ipynb)
-- 4장. 분류 [ipynb](https://github.com/dddonghwa/definitive-ml-guide/blob/main/ch04_calssification.ipynb)
+- 1장. 파이썬 기반의 머신러닝이 생태계의 이해 [md](https://github.com/dddonghwa/definitive-ml-guide/blob/main/ch01-02_sklearn/ch01-02_sklearn.md)/[ipynb](https://github.com/dddonghwa/definitive-ml-guide/blob/main/ch01-02_sklearn.ipynb)
+- 2장. 사이킷런으로 시작하는 머신러닝 [md](https://github.com/dddonghwa/definitive-ml-guide/blob/main/ch01-02_sklearn/ch01-02_sklearn.md)/[ipynb](https://github.com/dddonghwa/definitive-ml-guide/blob/main/ch01-02_sklearn.ipynb)
+- 3장. 평가 [md](https://github.com/dddonghwa/definitive-ml-guide/blob/main/ch03_evaluation/ch03_evaluation.md)/[ipynb](https://github.com/dddonghwa/definitive-ml-guide/blob/main/ch03_evaluation.ipynb)
+- 4장. 분류 md/[ipynb](https://github.com/dddonghwa/definitive-ml-guide/blob/main/ch04_calssification.ipynb)
 - 5장. 회귀 ipynb
 
 
