@@ -4,10 +4,10 @@
 ## PART 1. 파이썬 머신러닝 완벽가이드
 - Wikibooks 오픈소스 github [link](https://github.com/wikibook/ml-definitive-guide)
 ### 목차
-- 1장. 파이썬 기반의 머신러닝이 생태계의 이해 [md](https://github.com/dddonghwa/definitive-ml-guide/blob/main/ch01-02_sklearn/ch01-02_sklearn.md)/[ipynb](https://github.com/dddonghwa/definitive-ml-guide/blob/main/ch01-02_sklearn.ipynb)
-- 2장. 사이킷런으로 시작하는 머신러닝 [md](https://github.com/dddonghwa/definitive-ml-guide/blob/main/ch01-02_sklearn/ch01-02_sklearn.md)/[ipynb](https://github.com/dddonghwa/definitive-ml-guide/blob/main/ch01-02_sklearn.ipynb)
-- 3장. 평가 [md](https://github.com/dddonghwa/definitive-ml-guide/blob/main/ch03_evaluation/ch03_evaluation.md)/[ipynb](https://github.com/dddonghwa/definitive-ml-guide/blob/main/ch03_evaluation.ipynb)
-- 4장. 분류 md/[ipynb](https://github.com/dddonghwa/definitive-ml-guide/blob/main/ch04_calssification.ipynb)
+- 1장. 파이썬 기반의 머신러닝이 생태계의 이해 [md](https://github.com/dddonghwa/definitive-ml-guide/blob/main/ch01-02_sklearn/ch01-02_sklearn.md), [ipynb](https://github.com/dddonghwa/definitive-ml-guide/blob/main/ch01-02_sklearn.ipynb)
+- 2장. 사이킷런으로 시작하는 머신러닝 [md](https://github.com/dddonghwa/definitive-ml-guide/blob/main/ch01-02_sklearn/ch01-02_sklearn.md), [ipynb](https://github.com/dddonghwa/definitive-ml-guide/blob/main/ch01-02_sklearn.ipynb)
+- 3장. 평가 [md](https://github.com/dddonghwa/definitive-ml-guide/blob/main/ch03_evaluation/ch03_evaluation.md), [ipynb](https://github.com/dddonghwa/definitive-ml-guide/blob/main/ch03_evaluation.ipynb)
+- 4장. 분류 md, [ipynb](https://github.com/dddonghwa/definitive-ml-guide/blob/main/ch04_calssification.ipynb)
 - 5장. 회귀 ipynb
 
 
@@ -19,7 +19,7 @@
   - 참조 : 캐글 노트북 [link](https://www.kaggle.com/subinium/simple-matplotlib-visualization-tips)
 2. Visualization and ML with the Iris Dataset / Introduction to Logistic Regression 
   - 일자 : 2021.07.14(수) / 발표자 : 김동화 [github](https://github.com/dddonghwa)
-  - 참조 : 캐글 노트북 [link](https://www.kaggle.com/jchen2186/machine-learning-with-iris-dataset), 정리 [ipynb](https://github.com/dddonghwa/definitive-ml-guide/blob/main/kaggle_notebook_01_iris.ipynb)
+  - 참조 : 캐글 노트북 [link](https://www.kaggle.com/jchen2186/machine-learning-with-iris-dataset), 정리 [md](https://github.com/dddonghwa/definitive-ml-guide/blob/main/kaggle_notebook_01_iris/kaggle_notebook_01_iris.md), [ipynb](https://github.com/dddonghwa/definitive-ml-guide/blob/main/kaggle_notebook_01_iris.ipynb)
 3. Step by Step Diabetes Classification-KNN-detailed
   - 일자 : 2021.07.14(수) / 발표자 : 김현준 github
   - 참조 : 캐글 노트북 [link](https://www.kaggle.com/shrutimechlearn/step-by-step-diabetes-classification-knn-detailed)
