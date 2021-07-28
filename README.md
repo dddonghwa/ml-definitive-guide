@@ -16,15 +16,15 @@
 ### 목차
 1. Simple Matplotlib & Visualization Tips 💡
   - 일자 : 2021.07.07(수) / 발표자 : 이예준 [github](https://github.com/yejun-lee)
-  - 참조 : 캐글 노트북 [link](https://www.kaggle.com/subinium/simple-matplotlib-visualization-tips)
+  - 참조 : 캐글 노트북 [link](https://www.kaggle.com/subinium/simple-matplotlib-visualization-tips), 정리 파일 ipynb
 2. Visualization and ML with the Iris Dataset / Introduction to Logistic Regression 
   - 일자 : 2021.07.14(수) / 발표자 : 김동화 [github](https://github.com/dddonghwa)
-  - 참조 : 캐글 노트북 [link](https://www.kaggle.com/jchen2186/machine-learning-with-iris-dataset), 정리 [md](https://github.com/dddonghwa/definitive-ml-guide/blob/main/kaggle_notebook_01_iris/kaggle_notebook_01_iris.md), [ipynb](https://github.com/dddonghwa/definitive-ml-guide/blob/main/kaggle_notebook_01_iris.ipynb)
+  - 참조 : 캐글 노트북 [link](https://www.kaggle.com/jchen2186/machine-learning-with-iris-dataset), 정리 파일 [md](https://github.com/dddonghwa/definitive-ml-guide/blob/main/kaggle_notebook_01_iris/kaggle_notebook_01_iris.md), [ipynb](https://github.com/dddonghwa/definitive-ml-guide/blob/main/kaggle_notebook_01_iris.ipynb)
 3. Step by Step Diabetes Classification-KNN-detailed
   - 일자 : 2021.07.14(수) / 발표자 : 김현준 github
-  - 참조 : 캐글 노트북 [link](https://www.kaggle.com/shrutimechlearn/step-by-step-diabetes-classification-knn-detailed)
+  - 참조 : 캐글 노트북 [link](https://www.kaggle.com/shrutimechlearn/step-by-step-diabetes-classification-knn-detailed), 정리 파일 ipynb
 4.  Comprehensive data exploration with Python
   - 일자 : 2021.07.21(수) / 발표자 : 양효진 github
-  - 참조 : 캐글노트북 [link](https://www.kaggle.com/pmarcelino/comprehensive-data-exploration-with-python)
+  - 참조 : 캐글노트북 [link](https://www.kaggle.com/pmarcelino/comprehensive-data-exploration-with-python), 정리 파일 ipynb
 
 
