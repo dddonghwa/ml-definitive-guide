@@ -26,5 +26,8 @@
 4.  Comprehensive data exploration with Python
   - 일자 : 2021.07.21(수) / 발표자 : 양효진 github
   - 참조 : 캐글노트북 [link](https://www.kaggle.com/pmarcelino/comprehensive-data-exploration-with-python), 정리 파일 ipynb
+5. [TPS-Apr] Highlighting the Data 
+  - 일자 : 2021.08.04(수) / 발표자 : 이예준 [github](https://github.com/yejun-lee)
+  - 참조 : 캐글노트북 [link](https://www.kaggle.com/subinium/tps-apr-highlighting-the-data), 정리 파일 ipynb
 
 
