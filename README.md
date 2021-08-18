@@ -9,7 +9,7 @@
 - 3장. 평가 [md](https://github.com/dddonghwa/definitive-ml-guide/blob/main/ch03_evaluation/ch03_evaluation.md), [ipynb](https://github.com/dddonghwa/definitive-ml-guide/blob/main/ch03_evaluation.ipynb)
 - 4장. 분류   
   결정트리 [ipynb](https://github.com/dddonghwa/definitive-ml-guide/blob/main/ch04_classification/ch04_2_decisiontree.ipynb), 랜덤포레스트 [ipynb](https://github.com/dddonghwa/definitive-ml-guide/blob/main/ch04_classification/ch04_3_ensemble_randomforest.ipynb), GBM [ipynb](https://github.com/dddonghwa/definitive-ml-guide/blob/main/ch04_classification/ch04_4_GBM.ipynb), XGBoost [ipynb](https://github.com/dddonghwa/definitive-ml-guide/blob/main/ch04_classification/ch04_5_XGBoost.ipynb), LGBM [ipynb](https://github.com/dddonghwa/definitive-ml-guide/blob/main/ch04_classification/ch04_6_LGBM_hyunjun.ipynb) by @김현준 [github](https://github.com/hyunjun33)
-- 5장. 회귀 ipynb
+- 5장. 회귀 [ipynb]()
 
 
 
