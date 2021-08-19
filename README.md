@@ -8,8 +8,10 @@
 - 2장. 사이킷런으로 시작하는 머신러닝 [md](https://github.com/dddonghwa/definitive-ml-guide/blob/main/ch01-02_sklearn/ch01-02_sklearn.md), [ipynb](https://github.com/dddonghwa/definitive-ml-guide/blob/main/ch01-02_sklearn.ipynb)
 - 3장. 평가 [md](https://github.com/dddonghwa/definitive-ml-guide/blob/main/ch03_evaluation/ch03_evaluation.md), [ipynb](https://github.com/dddonghwa/definitive-ml-guide/blob/main/ch03_evaluation.ipynb)
 - 4장. 분류   
-  결정트리 [ipynb](https://github.com/dddonghwa/definitive-ml-guide/blob/main/ch04_classification/ch04_2_decisiontree.ipynb), 랜덤포레스트 [ipynb](https://github.com/dddonghwa/definitive-ml-guide/blob/main/ch04_classification/ch04_3_ensemble_randomforest.ipynb), GBM [ipynb](https://github.com/dddonghwa/definitive-ml-guide/blob/main/ch04_classification/ch04_4_GBM.ipynb), XGBoost [ipynb](https://github.com/dddonghwa/definitive-ml-guide/blob/main/ch04_classification/ch04_5_XGBoost.ipynb), LGBM [ipynb](https://github.com/dddonghwa/definitive-ml-guide/blob/main/ch04_classification/ch04_6_LGBM_hyunjun.ipynb) by @김현준 [github](https://github.com/hyunjun33)
-- 5장. 회귀 [ipynb]()
+  결정트리 [ipynb](https://github.com/dddonghwa/definitive-ml-guide/blob/main/ch04_classification/ch04_2_decisiontree.ipynb) / 랜덤포레스트 [ipynb](https://github.com/dddonghwa/definitive-ml-guide/blob/main/ch04_classification/ch04_3_ensemble_randomforest.ipynb) / GBM [ipynb](https://github.com/dddonghwa/definitive-ml-guide/blob/main/ch04_classification/ch04_4_GBM.ipynb) / XGBoost [ipynb](https://github.com/dddonghwa/definitive-ml-guide/blob/main/ch04_classification/ch04_5_XGBoost.ipynb) / LGBM [ipynb](https://github.com/dddonghwa/definitive-ml-guide/blob/main/ch04_classification/ch04_6_LGBM_hyunjun.ipynb) by [@김현준](https://github.com/hyunjun33)
+- 5장. 회귀   
+  경사하강법\~다항 회귀 [ipynb](https://github.com/dddonghwa/definitive-ml-guide/blob/main/ch05_regression/ch05_regression_basic_hyunjun.ipynb) by [@김현준](https://github.com/hyunjun33) / 릿지\~라쏘 [ipynb](https://github.com/dddonghwa/definitive-ml-guide/blob/main/ch05_regression/ch05_ridge_lasso.ipynb) / 엘라스틱넷\~로지스틱회귀 ipynb by @양효진
+- 6장. 차원 축소
 
 
 
