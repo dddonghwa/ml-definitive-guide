@@ -31,6 +31,6 @@
   - 참조 : 캐글노트북 [link](https://www.kaggle.com/pmarcelino/comprehensive-data-exploration-with-python), 정리 파일 ipynb
 5. [TPS-Apr] Highlighting the Data 
   - 일자 : 2021.08.04(수) / 발표자 : 이예준 [github](https://github.com/yejun-lee)
-  - 참조 : 캐글노트북 [link](https://www.kaggle.com/subinium/tps-apr-highlighting-the-data), 정리 파일 ipynb
+  - 참조 : 캐글노트북 [link](https://www.kaggle.com/subinium/tps-apr-highlighting-the-data), 정리 파일 [ipynb](https://github.com/dddonghwa/definitive-ml-guide/blob/main/kaggle_notebook_05_titanic/kaggle_notebook_05_titanic.ipynb)
 
 
