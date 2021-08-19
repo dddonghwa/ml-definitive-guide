@@ -6,7 +6,7 @@
 ### 목차
 - 1장. 파이썬 기반의 머신러닝이 생태계의 이해 [md](https://github.com/dddonghwa/definitive-ml-guide/blob/main/ch01-02_sklearn/ch01-02_sklearn.md), [ipynb](https://github.com/dddonghwa/definitive-ml-guide/blob/main/ch01-02_sklearn/ch01-02_sklearn.ipynb)
 - 2장. 사이킷런으로 시작하는 머신러닝 [md](https://github.com/dddonghwa/definitive-ml-guide/blob/main/ch01-02_sklearn/ch01-02_sklearn.md), [ipynb](https://github.com/dddonghwa/definitive-ml-guide/blob/main/ch01-02_sklearn/ch01-02_sklearn.ipynb)
-- 3장. 평가 [md](https://github.com/dddonghwa/definitive-ml-guide/blob/main/ch03_evaluation/ch03_evaluation.md), [ipynb](https://github.com/dddonghwa/definitive-ml-guide/blob/main/ch03_evaluation.ipynb)
+- 3장. 평가 [md](https://github.com/dddonghwa/definitive-ml-guide/blob/main/ch03_evaluation/ch03_evaluation.md), [ipynb](https://github.com/dddonghwa/definitive-ml-guide/blob/main/ch03_evaluation/ch03_evaluation.ipynb)
 - 4장. 분류   
   결정트리 [ipynb](https://github.com/dddonghwa/definitive-ml-guide/blob/main/ch04_classification/ch04_2_decisiontree.ipynb) / 랜덤포레스트 [ipynb](https://github.com/dddonghwa/definitive-ml-guide/blob/main/ch04_classification/ch04_3_ensemble_randomforest.ipynb) / GBM [ipynb](https://github.com/dddonghwa/definitive-ml-guide/blob/main/ch04_classification/ch04_4_GBM.ipynb) / XGBoost [ipynb](https://github.com/dddonghwa/definitive-ml-guide/blob/main/ch04_classification/ch04_5_XGBoost.ipynb) / LGBM [ipynb](https://github.com/dddonghwa/definitive-ml-guide/blob/main/ch04_classification/ch04_6_LGBM_hyunjun.ipynb) by [@김현준](https://github.com/hyunjun33)
 - 5장. 회귀   
