@@ -22,7 +22,7 @@
   - 참조 : 캐글 노트북 [link](https://www.kaggle.com/subinium/simple-matplotlib-visualization-tips), 정리 파일 ipynb
 2. Visualization and ML with the Iris Dataset / Introduction to Logistic Regression 
   - 일자 : 2021.07.14(수) / 발표자 : 김동화 [github](https://github.com/dddonghwa)
-  - 참조 : 캐글 노트북 [link](https://www.kaggle.com/jchen2186/machine-learning-with-iris-dataset), 정리 파일 [md](https://github.com/dddonghwa/definitive-ml-guide/blob/main/kaggle_notebook_01_iris/kaggle_notebook_01_iris.md), [ipynb](https://github.com/dddonghwa/definitive-ml-guide/blob/main/kaggle_notebook_01_iris.ipynb)
+  - 참조 : 캐글 노트북 [link](https://www.kaggle.com/jchen2186/machine-learning-with-iris-dataset), 정리 파일 [md](https://github.com/dddonghwa/definitive-ml-guide/blob/main/kaggle_notebook_01_iris/kaggle_notebook_01_iris.md), [ipynb](https://github.com/dddonghwa/definitive-ml-guide/blob/main/kaggle_notebook_01_iris/kaggle_notebook_01_iris.ipynb)
 3. Step by Step Diabetes Classification-KNN-detailed
   - 일자 : 2021.07.14(수) / 발표자 : 김현준 [github](https://github.com/hyunjun33)
   - 참조 : 캐글 노트북 [link](https://www.kaggle.com/shrutimechlearn/step-by-step-diabetes-classification-knn-detailed), 정리 파일 ipynb
