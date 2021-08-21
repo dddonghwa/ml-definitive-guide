@@ -10,7 +10,7 @@
 - 4장. 분류   
   [결정트리](https://github.com/dddonghwa/definitive-ml-guide/blob/main/ch04_classification/ch04_2_decisiontree.ipynb) / [랜덤포레스트](https://github.com/dddonghwa/definitive-ml-guide/blob/main/ch04_classification/ch04_3_ensemble_randomforest.ipynb) / [GBM](https://github.com/dddonghwa/definitive-ml-guide/blob/main/ch04_classification/ch04_4_GBM.ipynb) / [XGBoost](https://github.com/dddonghwa/definitive-ml-guide/blob/main/ch04_classification/ch04_5_XGBoost.ipynb) / [LGBM](https://github.com/dddonghwa/definitive-ml-guide/blob/main/ch04_classification/ch04_6_LGBM_hyunjun.ipynb)
 - 5장. 회귀   
-  [경사하강법\~다항 회귀](https://github.com/dddonghwa/definitive-ml-guide/blob/main/ch05_regression/ch05_regression_basic_hyunjun.ipynb)/ [릿지\~라쏘](https://github.com/dddonghwa/definitive-ml-guide/blob/main/ch05_regression/ch05_ridge_lasso.ipynb) / 엘라스틱넷\~로지스틱회귀
+  [경사하강법\~다항 회귀](https://github.com/dddonghwa/definitive-ml-guide/blob/main/ch05_regression/ch05_regression_basic_hyunjun.ipynb) / [릿지\~라쏘](https://github.com/dddonghwa/definitive-ml-guide/blob/main/ch05_regression/ch05_ridge_lasso.ipynb) / 엘라스틱넷\~로지스틱회귀
 - 6장. 차원 축소  
  [PCA](https://github.com/dddonghwa/definitive-ml-guide/blob/main/ch06_dimension_reduction/ch06_PCA_hyojin.ipynb) / [SVD](https://github.com/dddonghwa/definitive-ml-guide/blob/main/ch06_dimension_reduction/ch06_SVD_hyunjun.ipynb) / [LDA & NMF](https://github.com/dddonghwa/definitive-ml-guide/blob/main/ch06_dimension_reduction/ch06_dimension_reduction.ipynb)
 
