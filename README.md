@@ -12,7 +12,7 @@
 - 5장. 회귀   
   [경사하강법\~다항 회귀](https://github.com/dddonghwa/definitive-ml-guide/blob/main/ch05_regression/ch05_regression_basic_hyunjun.ipynb) / [릿지\~라쏘](https://github.com/dddonghwa/definitive-ml-guide/blob/main/ch05_regression/ch05_ridge_lasso.ipynb) / 엘라스틱넷\~로지스틱회귀
 - 6장. 차원 축소  
- [PCA](https://github.com/dddonghwa/definitive-ml-guide/blob/main/ch06_dimension_reduction/ch06_PCA_hyojin.ipynb) / [SVD](https://github.com/dddonghwa/definitive-ml-guide/blob/main/ch06_dimension_reduction/ch06_SVD_hyunjun.ipynb) / [LDA & NMF](https://github.com/dddonghwa/definitive-ml-guide/blob/main/ch06_dimension_reduction/ch06_dimension_reduction.ipynb)
+ [PCA](https://github.com/dddonghwa/definitive-ml-guide/blob/main/ch06_dimension_reduction/ch06_PCA_hyojin.ipynb) / [SVD](https://github.com/dddonghwa/definitive-ml-guide/blob/main/ch06_dimension_reduction/ch06_SVD_hyunjun.ipynb) / [LDA & NMF & all](https://github.com/dddonghwa/definitive-ml-guide/blob/main/ch06_dimension_reduction/ch06_dimension_reduction.ipynb)
 
 
 
