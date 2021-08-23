@@ -2,6 +2,7 @@
 - 2021.06.31 ~ ing 초중급스터디 자료
 
 ## PART 1. 파이썬 머신러닝 완벽가이드
+- 권철민, <U>파이썬 머신러닝 완벽가이드</U>, 위키북스, 2020
 - Wikibooks 오픈소스 github [link](https://github.com/wikibook/ml-definitive-guide)
 ### 목차
 - 1장. 파이썬 기반의 머신러닝이 생태계의 이해 [md](https://github.com/dddonghwa/definitive-ml-guide/blob/main/ch01-02_sklearn/ch01-02_sklearn.md), [ipynb](https://github.com/dddonghwa/definitive-ml-guide/blob/main/ch01-02_sklearn/ch01-02_sklearn.ipynb)
