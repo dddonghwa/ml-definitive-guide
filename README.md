@@ -2,6 +2,7 @@
 - 2021.06.31 ~ ing 초중급스터디 자료
 
 ## PART 1. 파이썬 머신러닝 완벽가이드
+- 권철민, *파이썬 머신러닝 완벽가이드*, 위키북스, 2020
 - Wikibooks 오픈소스 github [link](https://github.com/wikibook/ml-definitive-guide)
 ### 목차
 - 1장. 파이썬 기반의 머신러닝이 생태계의 이해 [md](https://github.com/dddonghwa/definitive-ml-guide/blob/main/ch01-02_sklearn/ch01-02_sklearn.md), [ipynb](https://github.com/dddonghwa/definitive-ml-guide/blob/main/ch01-02_sklearn/ch01-02_sklearn.ipynb)
@@ -14,7 +15,7 @@
 - 6장. 차원 축소  
  [PCA](https://github.com/dddonghwa/definitive-ml-guide/blob/main/ch06_dimension_reduction/ch06_PCA_hyojin.ipynb) / [SVD](https://github.com/dddonghwa/definitive-ml-guide/blob/main/ch06_dimension_reduction/ch06_SVD_hyunjun.ipynb) / [~LDA & NMF](https://github.com/dddonghwa/definitive-ml-guide/blob/main/ch06_dimension_reduction/ch06_dimension_reduction.ipynb)
 - 7장. 군집화  
- [K-평균](https://github.com/dddonghwa/definitive-ml-guide/blob/main/ch07_clustering/ch07_1_k_mean.ipynb) / [군집 평가](https://github.com/dddonghwa/definitive-ml-guide/blob/main/ch07_clustering/ch07_2_cluster_evaluation.ipynb) / [평균 이동](https://github.com/dddonghwa/definitive-ml-guide/blob/main/ch07_clustering/ch07_3_mean_shift.ipynb) / [GMM](https://github.com/dddonghwa/definitive-ml-guide/blob/main/ch07_clustering/ch07_4_GMM.ipynb) / DBSCAN
+ [K-평균](https://github.com/dddonghwa/definitive-ml-guide/blob/main/ch07_clustering/ch07_1_k_mean.ipynb) / [군집 평가](https://github.com/dddonghwa/definitive-ml-guide/blob/main/ch07_clustering/ch07_2_cluster_evaluation.ipynb) / [평균 이동](https://github.com/dddonghwa/definitive-ml-guide/blob/main/ch07_clustering/ch07_3_mean_shift.ipynb) / [GMM](https://github.com/dddonghwa/definitive-ml-guide/blob/main/ch07_clustering/ch07_4_GMM.ipynb) / [DBSCAN](https://github.com/dddonghwa/definitive-ml-guide/blob/main/ch07_clustering/ch07_5_DBSCAN.ipynb) / 실습 : 고객 
 
 
 
