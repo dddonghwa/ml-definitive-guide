@@ -15,7 +15,9 @@
 - 6장. 차원 축소  
  [PCA](https://github.com/dddonghwa/definitive-ml-guide/blob/main/ch06_dimension_reduction/ch06_PCA_hyojin.ipynb) / [SVD](https://github.com/dddonghwa/definitive-ml-guide/blob/main/ch06_dimension_reduction/ch06_SVD_hyunjun.ipynb) / [~LDA & NMF](https://github.com/dddonghwa/definitive-ml-guide/blob/main/ch06_dimension_reduction/ch06_dimension_reduction.ipynb)
 - 7장. 군집화  
- [K-평균](https://github.com/dddonghwa/definitive-ml-guide/blob/main/ch07_clustering/ch07_1_k_mean.ipynb) / [군집 평가](https://github.com/dddonghwa/definitive-ml-guide/blob/main/ch07_clustering/ch07_2_cluster_evaluation.ipynb) / [평균 이동](https://github.com/dddonghwa/definitive-ml-guide/blob/main/ch07_clustering/ch07_3_mean_shift.ipynb) / [GMM](https://github.com/dddonghwa/definitive-ml-guide/blob/main/ch07_clustering/ch07_4_GMM.ipynb) / [DBSCAN](https://github.com/dddonghwa/definitive-ml-guide/blob/main/ch07_clustering/ch07_5_DBSCAN.ipynb) / [실습:Customer Segmentation](https://github.com/dddonghwa/definitive-ml-guide/blob/main/ch07_clustering/ch07_6_clustering_practice_customer_segmentation.ipynb)
+ [K-평균](https://github.com/dddonghwa/definitive-ml-guide/blob/main/ch07_clustering/ch07_1_k_mean.ipynb) / [군집 평가](https://github.com/dddonghwa/definitive-ml-guide/blob/main/ch07_clustering/ch07_2_cluster_evaluation.ipynb) / [평균 이동](https://github.com/dddonghwa/definitive-ml-guide/blob/main/ch07_clustering/ch07_3_mean_shift.ipynb) / [GMM](https://github.com/dddonghwa/definitive-ml-guide/blob/main/ch07_clustering/ch07_4_GMM.ipynb) / [DBSCAN](https://github.com/dddonghwa/definitive-ml-guide/blob/main/ch07_clustering/ch07_5_DBSCAN.ipynb) / [실습 : Customer Segmentation](https://github.com/dddonghwa/definitive-ml-guide/blob/main/ch07_clustering/ch07_6_clustering_practice_customer_segmentation.ipynb)
+- 8장. 텍스트 분석
+ [텍스트 전처리 BOW](https://github.com/dddonghwa/definitive-ml-guide/blob/main/ch08_text_analytics/ch08_text_preprocessing_BOW.ipynb) / 감성 분석 / 문서 군집화•유사도 / 한글 텍스트 처리
 
 
 
