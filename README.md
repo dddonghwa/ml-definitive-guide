@@ -5,9 +5,12 @@
 - 권철민, *파이썬 머신러닝 완벽가이드*, 위키북스, 2020
 - Wikibooks 오픈소스 github [link](https://github.com/wikibook/ml-definitive-guide)
 ### 목차
-- 1장. [파이썬 기반의 머신러닝이 생태계의 이해](https://github.com/dddonghwa/definitive-ml-guide/blob/main/ch01-02_sklearn/ch01-02_sklearn.md)
-- 2장. [사이킷런으로 시작하는 머신러닝](https://github.com/dddonghwa/definitive-ml-guide/blob/main/ch01-02_sklearn/ch01-02_sklearn.md)
+- 1장. [파이썬 기반의 머신러닝이 생태계의 이해](https://github.com/dddonghwa/ml-definitive-guide/blob/main/ch01_python_ml/ch01_python_ml.ipynb)   
+머신러닝 개념 / 넘파이 / 데이터 핸들링 - 판다스
+- 2장. [사이킷런으로 시작하는 머신러닝](https://github.com/dddonghwa/ml-definitive-guide/blob/main/ch02_sklearn/ch02_sklearn.ipynb)  
+사이킷런 소개 / 붖꽃 품종 예측하기 / 사이킷런 기반 프레임워크 / Model Selection 모듈 소개 / 데이터 전처리 / 타이타닉 생존자 예측
 - 3장. [평가](https://github.com/dddonghwa/definitive-ml-guide/blob/main/ch03_evaluation/ch03_evaluation.md)
+정확도 / 오차 행렬 / 정밀도와 재현율 / F1 스코어 / ROC 곡선과 AUC / 피마 인디언 당뇨병 예측  
 - 4장. 분류   
   [결정트리](https://github.com/dddonghwa/definitive-ml-guide/blob/main/ch04_classification/ch04_2_decisiontree.ipynb) / [랜덤포레스트](https://github.com/dddonghwa/definitive-ml-guide/blob/main/ch04_classification/ch04_3_ensemble_randomforest.ipynb) / [GBM](https://github.com/dddonghwa/definitive-ml-guide/blob/main/ch04_classification/ch04_4_GBM.ipynb) / [XGBoost](https://github.com/dddonghwa/definitive-ml-guide/blob/main/ch04_classification/ch04_5_XGBoost.ipynb) / [LGBM](https://github.com/dddonghwa/definitive-ml-guide/blob/main/ch04_classification/ch04_6_LGBM_hyunjun.ipynb)
 - 5장. 회귀   
