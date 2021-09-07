@@ -1,4 +1,4 @@
-# definitive-ml-guide
+# ml-definitive-guide
 - 2021.06.31 ~ 09.01 초중급스터디 자료
 
 ## PART 1. 파이썬 머신러닝 완벽가이드
